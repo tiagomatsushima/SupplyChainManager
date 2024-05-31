@@ -1,0 +1,13 @@
+******* IMPLEMENTAÇÕES Front End *******
+____________________________________________________________________________________________
+
+1. Alterar a conexão de bando de dados para o banco local = OK
+2. Executar a migration para mapear o banco de dados = OK
+3. Editar os títulos "SupplyChainManager" para "Supply Chain Manager" = 
+4. Possibilitar que a pagina "Privacy" possa ser acessada via menu superior =
+5. Normalizar os titulos em todoas as paginas do sistema.
+6. Estilizar os botões em todas as paginas. Seguir de exemplo a pagina "Products"
+7. Alterar o tema Bootstrap atual
+ . Harmonizar os formulários de cadastro, exibição, atualização e exclusão de dados.
+8. Personalização da pagina Home para o contexto do sistema
+	Sugestão: Colocar mensagem de boas vindas com uma breve descrição do sistema e uma imagem

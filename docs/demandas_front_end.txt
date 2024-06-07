@@ -8,7 +8,7 @@ ________________________________________________________________________________
 5. Alterar o tema Bootstrap atual = OK
 6. Estilizar os botões em todas as paginas. Seguir de exemplo a pagina "Products"
 7. Normalizar os titulos em todas as paginas do sistema.
- . Harmonizar os formulários de cadastro, exibição, atualização e exclusão de dados.
-8. Personalização da pagina Home para o contexto do sistema
+8. Harmonizar os formulários de cadastro, exibição, atualização e exclusão de dados.
+9. Personalização da pagina Home para o contexto do sistema
 	Sugestão: Colocar mensagem de boas vindas com uma breve descrição do sistema e uma imagem
-9. Remover o Privacy do final da tela
+10. Remover o Privacy do final da tela

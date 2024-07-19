@@ -9,7 +9,7 @@ ________________________________________________________________________________
 6. Estilizar os botões em todas as paginas. Seguir de exemplo a pagina "Products" OK
 7. Normalizar os titulos em todas as paginas do sistema = OK
 8. Harmonizar os formulários de cadastro, exibição, atualização e exclusão de dados.OK
-9. Substituir os "labels" dos botões por ícones.OK
+9. Substituir os "labels" dos botões por ícones = OK
 10. Personalização da pagina Home para o contexto do sistema
-	Sugestão: Colocar mensagem de boas vindas com uma breve descrição do sistema e uma imagem
-11. Remover o Privacy do final da tela
+	Sugestão: Colocar mensagem de boas vindas com uma breve descrição do sistema e uma imagem = OK
+11. Remover o Privacy do final da tela = OK

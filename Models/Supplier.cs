@@ -13,7 +13,9 @@ namespace SupplyChainManager.Models
         [StringLength(14, ErrorMessage = "{0} needs to between {2} and {1}", MinimumLength = 11)]
         public string Document { get; set; }
 
+        [DisplayName("Supplier Type")]
         public SupplierType SupplierType { get; set; }
+        
         public Address Address { get; set; }
 
         [DisplayName("Is Active?")]

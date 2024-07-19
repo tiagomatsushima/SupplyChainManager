@@ -5,6 +5,7 @@ namespace SupplyChainManager.Models
 {
     public class Product : Entity
     {
+        [DisplayName("Supplier Name")]
         public Guid SupplierId { get; set; }
 
         [Required(ErrorMessage = "{0} is required.")]
@@ -21,6 +22,8 @@ namespace SupplyChainManager.Models
 
         [Required(ErrorMessage = "{0} is required.")]
         public decimal Price { get; set; }
+        
+        [DisplayName("Register Date")]
         public DateTime RegisterDate { get; set; }
 
         [DisplayName("Is Active?")]

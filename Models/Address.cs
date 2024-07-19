@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace SupplyChainManager.Models
 {
@@ -18,6 +19,8 @@ namespace SupplyChainManager.Models
 
         [Required(ErrorMessage = "{0} is required.")]
         [StringLength(8, ErrorMessage = "{0} needs to between {2} and {1}", MinimumLength = 8)]
+        
+        [DisplayName("ZIP Code")]
         public string ZipCode { get; set; }
 
         [Required(ErrorMessage = "{0} is required.")]

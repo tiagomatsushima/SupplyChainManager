@@ -1,0 +1,31 @@
+******* IMPLEMENTAÇÕES Back end *******
+____________________________________________________________________________________________
+
+Precisamos criar três novas paginas no sistema sendo elas: About, Coming Soon e Contact.
+Para isso será necessário alterar o backend e também o frontend.
+
+Contact:
+Adicionar os campos necessários:
+- Name 
+- Email
+- Subject
+- Message
+Por enquanto não é necessário implementar o envio desses dados
+
+Coming Soon
+Criar uma pagina onde será exibido a informação de pagina em construção. 
+Sugestão: Adicionar uma imagem que simbolize que a pagina ainda está sob desenvolvimento
+
+About:
+Precisamos que essa página contenha informações institucionais e tbm os três pilares da empresa: Mission, Vision e Values.
+Sugestão: Podem ser utilizadas imagens pontualmente que contextualizem informações da pagina
+
+Privacy:
+Esta pagina já existe, no entanto, precisamos adicionar conteúdo. Seguir sugestão anteriormente citada para pagina About
+
+
+Criação do Formulário: Iniciar na aula do dia 16 de Agosto: OK
+1. Referenciar à qual classe modelo o formulário vai representar;
+2. Pegar estrutura de formulário de contato em HTML na internet;
+3. Colocar as propriedades da classe modelo em cada input do formulário;
+4. Aplicar as classes do Bootstrap no formulário;
